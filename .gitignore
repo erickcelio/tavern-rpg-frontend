@@ -12,3 +12,5 @@ dist
 
 # Logs
 runtime.log
+
+package-lock.json
